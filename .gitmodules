@@ -1,0 +1,12 @@
+[submodule "ship"]
+	path = ship
+	url = https://github.com/openmuc/jeebus.ship.git
+	branch = develop
+[submodule "spine"]
+	path = spine
+	url = https://github.com/openmuc/jeebus.spine.git
+	branch = develop
+[submodule "controllable-system"]
+	path = usecase.powerlimitation.controllablesystem
+	url = https://github.com/openmuc/jeebus.usecase.powerlimitation.controllablesystem.git
+	branch = develop
