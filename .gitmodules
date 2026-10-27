@@ -6,7 +6,7 @@
 	path = spine
 	url = https://github.com/openmuc/jeebus.spine.git
 	branch = develop
-[submodule "controllable-system"]
-	path = usecase.powerlimitation.controllablesystem
+[submodule "powerlimitation.controllablesystem"]
+	path = powerlimitation.controllablesystem
 	url = https://github.com/openmuc/jeebus.usecase.powerlimitation.controllablesystem.git
 	branch = develop

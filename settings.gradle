@@ -10,3 +10,4 @@ rootProject.name = 'yall-need-jeebus'
 
 includeBuild 'ship'
 includeBuild 'spine'
+includeBuild 'powerlimitation.controllablesystem'

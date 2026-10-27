@@ -17,4 +17,6 @@ idea {
 test {
     dependsOn gradle.includedBuild('ship').task(':ship:test')
     dependsOn gradle.includedBuild('spine').task(':spine:test')
+    dependsOn gradle.includedBuild('powerlimitation.controllablesystem')
+        .task(':abstract-controllablesystem:test')
 }
