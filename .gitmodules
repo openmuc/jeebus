@@ -2,11 +2,14 @@
 	path = ship
 	url = https://github.com/openmuc/jeebus.ship.git
 	branch = develop
+	ignore = dirty
 [submodule "spine"]
 	path = spine
 	url = https://github.com/openmuc/jeebus.spine.git
 	branch = develop
+	ignore = dirty
 [submodule "powerlimitation.controllablesystem"]
 	path = powerlimitation.controllablesystem
 	url = https://github.com/openmuc/jeebus.usecase.powerlimitation.controllablesystem.git
 	branch = develop
+	ignore = dirty
